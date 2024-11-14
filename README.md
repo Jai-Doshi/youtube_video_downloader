@@ -13,4 +13,4 @@
 
 # DEMO
 
-https://github.com/user-attachments/assets/29020ba6-cf39-4685-92e2-da3dcfe10379
+![Screenshot 2024-11-14 182846](https://github.com/user-attachments/assets/2ae4e58c-ccb5-4469-9ab9-8c2cae09f50a)
