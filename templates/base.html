@@ -1,0 +1,36 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    {% include 'includes/head.html' %}
+
+    {% include 'includes/fonts.html' %}
+
+    {% include 'includes/css.html' %}
+
+</head>
+
+<body class="index-page">
+
+{% include 'includes/header.html' %}
+
+<main class="main">
+
+
+    {% block content %}
+
+    {% endblock %}
+
+</main>
+
+<!-- Scroll Top -->
+<a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i
+        class="bi bi-arrow-up-short"></i></a>
+
+{% include 'includes/js.html' %}
+
+</body>
+
+</html>
